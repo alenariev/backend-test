@@ -1,9 +1,0 @@
-2026-06-19 19:15:10,394 [INFO] app_logger: База данных SQLite успешно инициализирована.
-2026-06-19 19:16:11,532 [INFO] app_logger: Запрос: GET /docs | Статус: 200 | Время обработки: 0.0004s
-2026-06-19 19:16:12,483 [INFO] app_logger: Запрос: GET /openapi.json | Статус: 200 | Время обработки: 0.0774s
-2026-06-19 19:16:13,104 [INFO] app_logger: Запрос: GET /apple-touch-icon-precomposed.png | Статус: 404 | Время обработки: 0.0017s
-2026-06-19 19:16:13,570 [INFO] app_logger: Запрос: GET /apple-touch-icon.png | Статус: 404 | Время обработки: 0.0008s
-2026-06-19 19:19:58,423 [WARNING] app.services.ai_service: OpenAI API Key не настроен. Активирован режим заглушки (Fallback).
-2026-06-19 19:19:58,458 [WARNING] app.services.email_service: SMTP Yandex не настроен. Пропущена отправка письма на your-yandex-email@yandex.ru
-2026-06-19 19:19:58,459 [WARNING] app.services.email_service: SMTP Yandex не настроен. Пропущена отправка письма на alenariev25@yandex.ru
-2026-06-19 19:19:58,460 [INFO] app_logger: Запрос: POST /api/contact | Статус: 201 | Время обработки: 0.0913s
