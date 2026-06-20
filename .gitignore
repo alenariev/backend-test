@@ -1,5 +1,5 @@
-   .venv/
-   .env
-   db.sqlite3
-   logs/app.log
-   __pycache__/
+.venv/
+.env
+db.sqlite3
+logs/app.log
+__pycache__/
